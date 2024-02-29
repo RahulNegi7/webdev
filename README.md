@@ -1,2 +1,2 @@
-# webdev
-# So this is a project of creating a card using html and css.
+# webdev 
+This is a project about creating a card using html and css.
